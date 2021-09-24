@@ -1,0 +1,6 @@
+1 - fila
+2 - ajeitar streaming
+3 - shuffle
+4 - mostrar queue
+5 - adicionar sistema de busca por nome
+6 -
