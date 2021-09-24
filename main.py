@@ -4,6 +4,7 @@ import youtube_dl
 import os
 
 client = commands.Bot(command_prefix="?")
+token ="ODg5NTg4MzU0MTQ3MDQxMzIw.YUjbtw.WVkZhQq0jDK_jAh4TPBB8pvRVRo"
 
 
 @client.command()
@@ -76,4 +77,4 @@ async def stop(ctx):
     voice.stop()
 
 
-client.run('ODg5NTg4MzU0MTQ3MDQxMzIw.YUjbtw._4OYMKQFrbpIoxVAgg0l8nUBi4Y')
+client.run(token)
